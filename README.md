@@ -14,6 +14,6 @@ This project demonstrates the use of threads in Java using a simple program. Eac
   - `printSquares()`: Prints square of numbers from 1 to 5.
 
 ## Author
-- Name: Your Name
-- PRN: 1234567890
-- Batch: XYZ
+- Name: Anushka Chatterjee
+- PRN: 23070126015
+- Batch: AIML-A1
